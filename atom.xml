@@ -3,11 +3,11 @@
   <title>星雨的博客</title>
   
   <subtitle>努力永远不会欺骗你!</subtitle>
-  <link href="http://zhaoxiaonan.gitee.io/atom.xml" rel="self"/>
+  <link href="http://arzelan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://zhaoxiaonan.gitee.io/"/>
+  <link href="http://arzelan.github.io/"/>
   <updated>2020-12-21T03:28:26.544Z</updated>
-  <id>http://zhaoxiaonan.gitee.io/</id>
+  <id>http://arzelan.github.io/</id>
   
   <author>
     <name>星雨</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zhaoxiaonan.gitee.io/2020/12/21/hello-world/"/>
-    <id>http://zhaoxiaonan.gitee.io/2020/12/21/hello-world/</id>
+    <link href="http://arzelan.github.io/2020/12/21/hello-world/"/>
+    <id>http://arzelan.github.io/2020/12/21/hello-world/</id>
     <published>2020-12-21T03:28:26.544Z</published>
     <updated>2020-12-21T03:28:26.544Z</updated>
     
