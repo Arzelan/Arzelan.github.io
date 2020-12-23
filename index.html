@@ -992,7 +992,7 @@ $(function () {
     <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
 
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
         var OriginTitile = document.title,
             st;
         document.addEventListener("visibilitychange", function () {
@@ -1001,7 +1001,19 @@ $(function () {
                     document.title = OriginTitile
                 }, 3e3))
         })
+    </script> -->
+
+    <script type="text/javascript">
+        var OriginTitile = document.title,
+            st;
+        document.addEventListener("visibilitychange", function () {
+            document.hidden ? (document.title = "技术博客-有点东西", clearTimeout(st)) : (document.title =
+                "来，拧个螺丝看看---", st = setTimeout(function () {
+                    document.title = OriginTitile
+                }, 3e3))
+        })
     </script>
+
 
     <!--动态线条背景-->
     <!-- <script type="text/javascript"
