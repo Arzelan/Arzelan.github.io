@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>星雨的博客</title>
+  <title>星雨博客</title>
   
-  <subtitle>努力永远不会欺骗你!</subtitle>
+  <subtitle> 不忘初心 方得始终 </subtitle>
   <link href="http://arzelan.github.io/atom.xml" rel="self"/>
   
   <link href="http://arzelan.github.io/"/>
-  <updated>2020-12-21T03:28:26.544Z</updated>
+  <updated>2021-01-04T07:45:14.387Z</updated>
   <id>http://arzelan.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hello 2</title>
+    <link href="http://arzelan.github.io/2021/01/04/hello-2/"/>
+    <id>http://arzelan.github.io/2021/01/04/hello-2/</id>
+    <published>2021-01-04T07:42:01.000Z</published>
+    <updated>2021-01-04T07:45:14.387Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;大家好&quot;&gt;&lt;a href=&quot;#大家好&quot; class=&quot;headerlink&quot; title=&quot;大家好&quot;&gt;&lt;/a&gt;大家好&lt;/h1&gt;&lt;h2 id=&quot;大家好-1&quot;&gt;&lt;a href=&quot;#大家好-1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://arzelan.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://arzelan.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://arzelan.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://arzelan.github.io/2020/12/21/hello-world/"/>
     <id>http://arzelan.github.io/2020/12/21/hello-world/</id>
     <published>2020-12-21T03:28:26.544Z</published>
-    <updated>2020-12-21T03:28:26.544Z</updated>
+    <updated>2021-01-04T07:38:03.738Z</updated>
     
     
       
