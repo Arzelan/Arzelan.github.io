@@ -13,6 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+#  https://username.github.io/project  带有project的url导致部署到github pages之后样式缺失。修改为https://username.github.io 正常
 url: https://arzelan.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
